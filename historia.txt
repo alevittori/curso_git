@@ -1,2 +1,6 @@
 historia de prueva
 para el curso de git
+
+ahora le agregamos mas texto para el segundo 
+commit
+
